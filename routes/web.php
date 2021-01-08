@@ -22,5 +22,5 @@ get('about', function() {
 });
 
 get('reporting', function() {
-    return 'Yaya Reporting feature';
+    return 'No Reporting feature';
 });
